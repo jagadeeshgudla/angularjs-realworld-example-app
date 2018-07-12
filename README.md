@@ -4,7 +4,7 @@
 
 View the **[demo application](https://angularjs.realworld.io)** or **[learn how to build the application from scratch](https://thinkster.io/angularjs-es6-tutorial)**!
 
-# Getting started
+# Getting started.
 
 1. Clone repo
 2. `npm install`
